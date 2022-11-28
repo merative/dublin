@@ -2,8 +2,10 @@ html {
   background-color: #9900FF;
 }  
 body {
-  color: white
+  color: white;
 }
 hr {
-  height:1em;background-color:white;color:white;
+  height:1em;
+  background-color:white;
+  color:white;
 }

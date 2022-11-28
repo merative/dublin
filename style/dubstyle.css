@@ -1,11 +1,12 @@
 html {
-  background-color: #9900FF;
+  background-color: #9400FF;
 }  
 body {
+  font-family: Verdana, sans-serif;
   color: white;
 }
 hr {
-  height: 0.5em;
+  height: 12px;
   background-color: white;
   color: white;
 }

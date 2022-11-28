@@ -4,3 +4,6 @@ html {
 body {
   color: white
 }
+hr {
+  height: 12px;
+}
